@@ -2,18 +2,18 @@
 
 ## Description
 
-Initial project setup
+A repository containing a novel zero-knowledge proof system implemented in Rust, leveraging zk-SNARKs with custom elliptic curves for enhanced performance in privacy-preserving cryptocurrency transactions.
 
 ## Features
 
-- Integrate a hardware security module (HSM) for secure key storage and management.
-- Implement a role-based access control (RBAC) system to restrict access to sensitive data and functionalities.
-- Develop a RESTful API using gRPC for high-performance inter-service communication.
-- Utilize the ChaCha20-Poly1305 authenticated encryption algorithm for data at rest encryption.
-- Implement federated learning techniques to train models on decentralized data sources.
-- Leverage a Merkle tree data structure to efficiently verify data integrity across distributed nodes.
-- Automate deployment and scaling using Kubernetes and Docker containers.
-- Monitor system performance metrics using Prometheus and visualize them with Grafana.
+- Integrate hardware security modules (HSMs) for secure key storage and management.
+- Implement zero-knowledge proofs (ZKPs) to enable privacy-preserving data sharing.
+- Utilize federated learning algorithms to train machine learning models on decentralized data.
+- Develop a RESTful API for seamless integration with existing cryptocurrency exchanges.
+- Deploy a distributed ledger technology (DLT) based solution for supply chain tracking.
+- Employ homomorphic encryption to perform computations on encrypted data without decryption.
+- Design a role-based access control (RBAC) system to manage user permissions and data access.
+- Implement automated vulnerability scanning and penetration testing to ensure security.
 ## Installation
 
 ```bash
